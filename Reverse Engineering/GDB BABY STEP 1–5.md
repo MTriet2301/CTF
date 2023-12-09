@@ -14,7 +14,7 @@
 => 0x000055555555513e <+21>:	ret 
 ```
 
-* Kết quả cuối cùng của thanh eax là `0x86342` convert sang binary ta có flag `PicoCTF{549698}`
+* Kết quả cuối cùng của thanh eax là `0x86342` convert sang dec ta có flag `PicoCTF{549698}`
 
 
 
